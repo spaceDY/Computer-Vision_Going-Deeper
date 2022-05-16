@@ -1,7 +1,7 @@
 # Computer-Vision_Going-Deeper
 
-GD1.백본 네트워크 구조 상세분석
-GD2.없다면 어떻게 될까? (ResNet Ablation Study)
+GD1.백본 네트워크 구조 상세분석   
+GD2.없다면 어떻게 될까? (ResNet Ablation Study)   
 GD3.잘 만든 Augmentation; 이미지 100장 안 부럽다
 GD4.이미지 어디까지 우려볼까?
 GD5.너의 속이 궁금해 - Class Activation Map 살펴보기
